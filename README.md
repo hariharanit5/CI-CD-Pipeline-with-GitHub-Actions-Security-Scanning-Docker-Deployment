@@ -100,7 +100,7 @@ mvn clean package -DskipTests
 
 3. Authenticate with **DockerHub** using repository secrets.
 
-4. Build a Docker image:
+4. Build The Docker image:
 
 ```
 docker build -t h2004/bankapp:latest .
