@@ -177,7 +177,7 @@ project-folder
 
 ---
 
-## Pipeline Workflow
+### Pipeline Workflow
 
 Code Push → Compile → Security Scan → Unit Test → SonarCloud Analysis → Docker Build → Docker Push
 
